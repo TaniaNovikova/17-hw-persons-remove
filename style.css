@@ -1,0 +1,24 @@
+div {
+    margin: 5px;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid transparent;
+    margin: 5px 0;
+    padding: 5px 10px;
+}
+
+button {
+    background-color: rgba(119, 77, 226, 0.313);
+    border: 10px solid red;
+    color: white;
+    text-shadow: 0cqmax;
+    font-size: 20px;
+    font-weight: 800;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+}
